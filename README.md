@@ -24,6 +24,19 @@ sudo chmod +x learningChatBot.py
 sudo python3 learningChatBot.py
 ```
 
+## How to teach the learningChatBot?
+```
+Welcome to the Python chat bot! Type 'exit' to quit.
+> What is your name?
+I'm sorry, I don't understand.
+Was that helpful? [y/n] n
+What should I have said? My name is James!
+> What is your name?
+My name is James!
+Was that helpful? [y/n] y
+> 
+```
+
 ## Example script
 ```python
 import random
