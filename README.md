@@ -1,5 +1,5 @@
 # learningChatBot
-A learning ChatBot written in Python 3.
+A learning ChatBot you can customise with every request and every response.
 
 ## How this script works?
 When using this ChatBot and you ask questions, it will respond to you not knowing how to answer.
